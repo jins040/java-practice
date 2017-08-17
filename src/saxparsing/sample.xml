@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<month>
+    <info>
+        <stnid>90</stnid>
+        <stnko>속초</stnko>
+        <pa>
+            <![CDATA[
+1012.1
+]]>
+        </pa>
+        <ps>
+            <![CDATA[
+1014.2
+]]>
+        </ps>
+        <avgtamax>
+            <![CDATA[
+23.6
+]]>
+        </avgtamax>
+        <avgtamin>
+            <![CDATA[
+17.5
+]]>
+        </avgtamin>
+        <taavg>
+            <![CDATA[
+20.4
+]]>
+        </taavg>
+        <tamax>
+            <![CDATA[
+28.6
+]]>
+        </tamax>
+        <tamin>
+            <![CDATA[
+13.2
+]]>
+        </tamin>
+        <avgtgmin>
+            <![CDATA[
+16.9
+]]>
+        </avgtgmin>
+        <ta>
+            <![CDATA[
+0.6
+]]>
+        </ta>
+        <tmmax>
+            <![CDATA[
+01
+]]>
+        </tmmax>
+        <tmmin>
+            <![CDATA[
+23
+]]>
+        </tmmin>
+        <maxcnt>
+            <![CDATA[
+5
+]]>
+        </maxcnt>
+        <mincnt>
+            <![CDATA[
+0
+]]>
+        </mincnt>
+        <avghm>
+            <![CDATA[
+87
+]]>
+        </avghm>
+        <avgcatot>
+            <![CDATA[
+null
+]]>
+        </avgcatot>
+        <sumssday>
+            <![CDATA[
+130.0
+]]>
+        </sumssday>
+        <avgte05>
+            <![CDATA[
+null
+]]>
+        </avgte05>
+        <daydur>
+            <![CDATA[
+35
+]]>
+        </daydur>
+    </info>
+    <info>
+        <stnid>95</stnid>
+        <stnko>철원</stnko>
+        <pa>
+            <![CDATA[
+995.9
+]]>
+        </pa>
+        <ps>
+            <![CDATA[
+1013.7
+]]>
+        </ps>
+        <avgtamax>
+            <![CDATA[
+26.7
+]]>
+        </avgtamax>
+        <avgtamin>
+            <![CDATA[
+15.1
+]]>
+        </avgtamin>
+        <taavg>
+            <![CDATA[
+20.2
+]]>
+        </taavg>
+        <tamax>
+            <![CDATA[
+29.7
+]]>
+        </tamax>
+        <tamin>
+            <![CDATA[
+6.1
+]]>
+        </tamin>
+        <avgtgmin>
+            <![CDATA[
+12.5
+]]>
+        </avgtgmin>
+        <ta>
+            <![CDATA[
+1.5
+]]>
+        </ta>
+        <tmmax>
+            <![CDATA[
+05
+]]>
+        </tmmax>
+        <tmmin>
+            <![CDATA[
+21
+]]>
+        </tmmin>
+        <maxcnt>
+            <![CDATA[
+24
+]]>
+        </maxcnt>
+        <mincnt>
+            <![CDATA[
+0
+]]>
+        </mincnt>
+        <avghm>
+            <![CDATA[
+76
+]]>
+        </avghm>
+        <avgcatot>
+            <![CDATA[
+null
+]]>
+        </avgcatot>
+        <sumssday>
+            <![CDATA[
+202.5
+]]>
+        </sumssday>
+        <avgte05>
+            <![CDATA[
+null
+]]>
+        </avgte05>
+        <daydur>
+            <![CDATA[
+54
+]]>
+        </daydur>
+    </info>
